@@ -1,9 +1,14 @@
-## Repository of AWS tips
-Everything AWS.
- - [Company](#company)
-  - Technologies(#technologies)
+
+
+
+## Cloud Platforms
+Various Cloud Platforms:
+ - [AWS](#aws)
+ - [Azure](#azure)
+ - [GCP](#gcp)
 
 ## Technologies
-- to stuff
-- [More...](aws-tools.md)
+- [AWS Platform](aws.md)
+- [Azure Platform](azure.md)
+- [GCP Platform](gcp.md)
 
